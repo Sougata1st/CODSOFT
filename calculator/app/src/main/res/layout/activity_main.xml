@@ -60,7 +60,7 @@
                 android:layout_weight="1"
                 android:textSize="@dimen/calcButtonTextSize"
                 android:background="@null"
-                android:textColor="@color/red"
+                android:textColor="#7E0D0D"
                 android:onClick="clearOnClick"
                 android:text="C"/>
 
@@ -269,7 +269,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="2"
                 android:textSize="40sp"
-                android:background="@color/orange"
+                android:background="@color/colorAccent"
                 android:textColor="@color/white"
                 android:text="="
                 android:onClick="equalsOnClick"/>
